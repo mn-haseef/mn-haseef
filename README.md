@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Cyber Security**
 
-- ⚡ Fun fact **Blockchain and smart contracts**
+- ⚡ Fun fact **Learning Blockchain and smart contracts**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
