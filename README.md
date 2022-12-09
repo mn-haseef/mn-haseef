@@ -5,9 +5,12 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mn-haseef" alt="mn-haseef" /></a> </p> -->
 
+
+- - 🌱 I’m currently learning **CEH | Blockchain | CCSK**
+
 - 💬 Ask me about **Cyber Security**
 
-- ⚡ Fun fact **I don't know, Who am I**
+- ⚡ Fun fact **Blockchain and smart contracts**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
